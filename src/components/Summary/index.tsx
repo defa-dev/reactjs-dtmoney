@@ -69,7 +69,4 @@ export function Summary() {
     </Container>
   );
 }
-function usetransactions(): { transactions: any; } {
-  throw new Error("Function not implemented.");
-}
 
