@@ -5,7 +5,7 @@
   "dependencies": {
     "axios": "^0.25.0",
     "miragejs": "^0.1.43",
-    "nodemon": "^2.0.15",
+    "nodemon": "^2.0.20",
     "polished": "^4.1.4",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
